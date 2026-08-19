@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Weekly Conference Schedule</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#16233B;
+    --paper:#F5F6F1;
+    --card:#FFFFFF;
+    --rule:#C7D2E0;
+    --amber:#C97A2B;
+    --green:#4F7358;
+    --slate:#5B6472;
+    --slate-light:#8791A0;
+  }
+
+  *{ box-sizing:border-box; }
+
+  body{
+    margin:0;
+    background:var(--paper);
+    background-image:
+      linear-gradient(var(--rule) 1px, transparent 1px);
+    background-size: 100% 2.1rem;
+    color:var(--ink);
+    font-family:'IBM Plex Sans', sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+
+  .wrap{
+    max-width:760px;
+    margin:0 auto;
+    padding:2.5rem 1.25rem 4rem;
+  }
+
+  header{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+    gap:1rem;
+    margin-bottom:1.75rem;
+    padding-bottom:1.25rem;
+    border-bottom:2px solid var(--ink);
+  }
+
+  header h1{
+    font-family:'IBM Plex Serif', serif;
+    font-weight:600;
+    font-size:1.65rem;
+    margin:0 0 0.2rem;
+    letter-spacing:-0.01em;
+  }
+
+  header p{
+    margin:0;
+    color:var(--slate);
+    font-size:0.9rem;
+  }
+
+  .stamp{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.68rem;
+    color:var(--slate-light);
+    text-align:right;
+    line-height:1.4;
+    white-space:nowrap;
+    padding-top:0.2rem;
+  }
+
+  .tabs{
+    display:flex;
+    gap:0.4rem;
+    margin-bottom:1.5rem;
+    flex-wrap:wrap;
+  }
+
+  .tab{
+    position:relative;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.78rem;
+    font-weight:500;
+    background:var(--card);
+    border:1.5px solid var(--rule);
+    color:var(--slate);
+    padding:0.5rem 0.9rem;
+    border-radius:3px 3px 0 0;
+    cursor:pointer;
+    transition:background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+  }
+
+  .tab:hover{ border-color:var(--ink); color:var(--ink); }
+
+  .tab:focus-visible{
+    outline:2px solid var(--amber);
+    outline-offset:2px;
+  }
+
+  .tab.active{
+    background:var(--ink);
+    border-color:var(--ink);
+    color:var(--paper);
+  }
+
+  .tab.is-today::after{
+    content:"TODAY";
+    position:absolute;
+    top:-0.55rem;
+    right:-0.5rem;
+    background:var(--amber);
+    color:#fff;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.52rem;
+    font-weight:600;
+    letter-spacing:0.05em;
+    padding:0.18rem 0.35rem;
+    border-radius:2px;
+    transform:rotate(-6deg);
+    box-shadow:0 1px 2px rgba(0,0,0,0.25);
+  }
+
+  @media (prefers-reduced-motion: no-preference){
+    .tab.is-today::after{
+      animation: stamp-in 0.35s cubic-bezier(.2,1.4,.4,1) 0.1s both;
+    }
+  }
+
+  @keyframes stamp-in{
+    0%{ transform:rotate(-6deg) scale(1.9); opacity:0; }
+    100%{ transform:rotate(-6deg) scale(1); opacity:1; }
+  }
+
+  .chart{
+    background:var(--card);
+    border:1px solid var(--rule);
+    border-radius:4px;
+    overflow:hidden;
+  }
+
+  .day-title{
+    font-family:'IBM Plex Serif', serif;
+    font-weight:600;
+    font-size:1.05rem;
+    padding:1rem 1.25rem 0.75rem;
+    border-bottom:1px solid var(--rule);
+  }
+
+  .row{
+    display:grid;
+    grid-template-columns:5.4rem 1fr;
+    gap:0;
+    border-bottom:1px solid var(--rule);
+  }
+
+  .row:last-of-type{ border-bottom:none; }
+
+  .row .time{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.75rem;
+    color:var(--slate);
+    padding:0.85rem 0.5rem 0.85rem 1.25rem;
+    border-right:1px solid var(--rule);
+  }
+
+  .row .body{
+    padding:0.85rem 1.25rem;
+  }
+
+  .row .title{
+    font-weight:500;
+    font-size:0.92rem;
+    line-height:1.35;
+  }
+
+  .row .detail{
+    color:var(--slate);
+    font-size:0.8rem;
+    margin-top:0.25rem;
+    line-height:1.4;
+  }
+
+  .row .meta{
+    display:flex;
+    gap:0.75rem;
+    flex-wrap:wrap;
+    margin-top:0.4rem;
+    font-size:0.75rem;
+    color:var(--slate-light);
+  }
+
+  .row .meta span{
+    display:inline-flex;
+    align-items:center;
+    gap:0.3rem;
+  }
+
+  .empty{
+    padding:2rem 1.25rem;
+    color:var(--slate);
+    font-size:0.88rem;
+    text-align:center;
+  }
+
+  .lunch{
+    display:flex;
+    align-items:flex-start;
+    gap:0.6rem;
+    background:#F0F4F0;
+    border-top:1px solid var(--rule);
+    padding:0.85rem 1.25rem;
+  }
+
+  .lunch .icon{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.68rem;
+    font-weight:600;
+    color:var(--green);
+    letter-spacing:0.04em;
+    padding-top:0.1rem;
+    white-space:nowrap;
+  }
+
+  .lunch .text{
+    font-size:0.85rem;
+    color:var(--ink);
+    line-height:1.4;
+  }
+
+  footer{
+    text-align:center;
+    margin-top:2rem;
+    font-size:0.72rem;
+    color:var(--slate-light);
+    font-family:'IBM Plex Mono', monospace;
+  }
+
+  @media (max-width:520px){
+    .row{ grid-template-columns:4.4rem 1fr; }
+    .row .time{ padding-left:0.9rem; font-size:0.68rem; }
+    .row .body{ padding-left:0.9rem; }
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div>
+        <h1>Weekly Conference Schedule</h1>
+        <p>Didactics &amp; lunch, this week</p>
+      </div>
+      <div class="stamp" id="stamp"></div>
+    </header>
+
+    <nav class="tabs" id="tabs"></nav>
+    <div class="chart" id="chart"></div>
+
+    <footer>Published from a Scriptable widget · not for meeting access, times only</footer>
+  </div>
+
+<script>
+  const DAY_ORDER = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"];
+
+  function formatDateLabel(key){
+    const d = new Date(key + "T00:00:00");
+    return d.toLocaleDateString(undefined, { weekday: "long", month: "long", day: "numeric" });
+  }
+
+  function todayKey(){
+    const d = new Date();
+    const y = d.getFullYear();
+    const m = String(d.getMonth()+1).padStart(2,"0");
+    const dd = String(d.getDate()).padStart(2,"0");
+    return `${y}-${m}-${dd}`;
+  }
+
+  function renderEmpty(container, message){
+    container.innerHTML = `<div class="empty">${message}</div>`;
+  }
+
+  function renderDay(dayKey, data){
+    const chart = document.getElementById("chart");
+    const day = data.days[dayKey];
+    const lunch = day ? (data.lunch || {})[day.dayName] : null;
+
+    let html = `<div class="day-title">${formatDateLabel(dayKey)}</div>`;
+
+    if(!day || !day.sessions || day.sessions.length === 0){
+      html += `<div class="empty">No sessions scheduled.</div>`;
+    } else {
+      day.sessions.forEach(s => {
+        html += `
+          <div class="row">
+            <div class="time">${s.time ? s.time.split(/[-–—]/)[0].trim() : "—"}</div>
+            <div class="body">
+              <div class="title">${escapeHtml(s.title)}</div>
+              ${s.detail ? `<div class="detail">${escapeHtml(s.detail)}</div>` : ""}
+              <div class="meta">
+                ${s.location ? `<span>📍 ${escapeHtml(s.location.replace(/^streamed from /i, ""))}</span>` : ""}
+                ${s.hasVideo ? `<span>💻 Video available</span>` : ""}
+              </div>
+            </div>
+          </div>`;
+      });
+    }
+
+    if(lunch){
+      html += `
+        <div class="lunch">
+          <div class="icon">LUNCH</div>
+          <div class="text">${escapeHtml(lunch)}</div>
+        </div>`;
+    }
+
+    chart.innerHTML = html;
+  }
+
+  function escapeHtml(str){
+    const div = document.createElement("div");
+    div.textContent = str || "";
+    return div.innerHTML;
+  }
+
+  function buildTabs(dayKeys, data, selectedKey, onSelect){
+    const tabs = document.getElementById("tabs");
+    const today = todayKey();
+    tabs.innerHTML = "";
+    dayKeys.forEach(key => {
+      const day = data.days[key];
+      const btn = document.createElement("button");
+      btn.className = "tab" + (key === selectedKey ? " active" : "") + (key === today ? " is-today" : "");
+      btn.textContent = day.dayName.slice(0,3).toUpperCase();
+      btn.addEventListener("click", () => onSelect(key));
+      tabs.appendChild(btn);
+    });
+  }
+
+  async function init(){
+    const stampEl = document.getElementById("stamp");
+    try{
+      const res = await fetch("data.json", { cache: "no-store" });
+      if(!res.ok) throw new Error("no data yet");
+      const data = await res.json();
+
+      const dayKeys = Object.keys(data.days || {}).sort();
+      if(dayKeys.length === 0){
+        renderEmpty(document.getElementById("chart"), "No schedule published yet — check back after the next update.");
+        stampEl.textContent = "";
+        return;
+      }
+
+      const updated = data.updatedAt ? new Date(data.updatedAt) : null;
+      stampEl.textContent = updated
+        ? `UPDATED\n${updated.toLocaleDateString(undefined,{month:"short",day:"numeric"})} · ${updated.toLocaleTimeString(undefined,{hour:"numeric",minute:"2-digit"})}`
+        : "";
+
+      const tKey = todayKey();
+      let selected = dayKeys.includes(tKey) ? tKey : dayKeys[0];
+
+      function select(key){
+        selected = key;
+        buildTabs(dayKeys, data, selected, select);
+        renderDay(selected, data);
+      }
+
+      select(selected);
+    } catch(e){
+      renderEmpty(document.getElementById("chart"), "No schedule published yet — check back after the next update.");
+    }
+  }
+
+  init();
+</script>
+</body>
+</html>
