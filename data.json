@@ -1,0 +1,119 @@
+{
+  "updatedAt": "2026-08-19T14:03:53.079Z",
+  "days": {
+    "2026-08-17": {
+      "dayName": "Monday",
+      "sessions": [
+        {
+          "time": "8:00 AM - 9:00 AM",
+          "title": "From Referral to Transplant: Examining Inequities Across the Transplant Continuum",
+          "detail": "Mercedes Martinez MD · Zoom Conference Link",
+          "location": "Streamed from McIntosh Conference Room",
+          "hasVideo": false
+        },
+        {
+          "time": "12:00 PM - 1:00 PM",
+          "title": "Intern Conference: Introduction to Complex Care",
+          "detail": "Divya Lakhaney MD · Zoom Conference Link",
+          "location": "Streamed from McIntosh Conference Room",
+          "hasVideo": false
+        },
+        {
+          "time": null,
+          "title": "Senior Conference: Resident-Directed Wellness Time",
+          "detail": null,
+          "location": null,
+          "hasVideo": false
+        }
+      ]
+    },
+    "2026-08-18": {
+      "dayName": "Tuesday",
+      "sessions": [
+        {
+          "time": "8:00 AM - 9:00 AM",
+          "title": "Teach Senior Morning Report",
+          "detail": "Madeleine Fish MD · Zoom Conference Link",
+          "location": "Streamed from McIntosh Conference Room",
+          "hasVideo": false
+        },
+        {
+          "time": "12:00 PM - 1:00 PM",
+          "title": "Enteral Nutrition Fundamentals: A Resident's Survival Guide to Formula Selection, Ordering, and Access",
+          "detail": "Chelsey Bauer MS,RD,CSP,CLC · Kyle Hampson PharmD, MPH, BCNSP, BCPPS, CNSC, FASPEN · Jessica Winter · Zoom Conference Link",
+          "location": "Streamed from McIntosh Conference Room",
+          "hasVideo": false
+        },
+        {
+          "time": null,
+          "title": "Psychosocial Rounds: Cancelled",
+          "detail": null,
+          "location": null,
+          "hasVideo": false
+        }
+      ]
+    },
+    "2026-08-19": {
+      "dayName": "Wednesday",
+      "sessions": [
+        {
+          "time": "8:00 AM - 9:00 AM",
+          "title": "Resident-Directed Wellness Time",
+          "detail": null,
+          "location": null,
+          "hasVideo": false
+        },
+        {
+          "time": "12:00 PM - 1:00 PM",
+          "title": "Legislative Advocacy Series",
+          "detail": "Children as Pedestrians: Making New York's Streets Safer for Kids · Kathleen Harwood MD · Kathryn Varghese MD · Joshua Goodman MD · Zoom Conference Link",
+          "location": "Streamed from the McIntosh Conference Room",
+          "hasVideo": false
+        }
+      ]
+    },
+    "2026-08-20": {
+      "dayName": "Thursday",
+      "sessions": [
+        {
+          "time": "8:00 AM - 9:00 AM",
+          "title": "Quality and Patient Safety: An Overview",
+          "detail": "Cynthia Okerfelt RN · Zoom Conference Link",
+          "location": "Streamed from McIntosh Conference Room",
+          "hasVideo": false
+        },
+        {
+          "time": "12:00 PM - 1:00 PM",
+          "title": "Mock Code",
+          "detail": "Jean Cho MD · Kathryn Varghese MD · Zoom Conference Link",
+          "location": "Streamed from McIntosh Conference Room",
+          "hasVideo": false
+        }
+      ]
+    },
+    "2026-08-21": {
+      "dayName": "Friday",
+      "sessions": [
+        {
+          "time": "8:00 AM - 9:00 AM",
+          "title": "Resident-Directed Wellness Time",
+          "detail": null,
+          "location": null,
+          "hasVideo": false
+        },
+        {
+          "time": "12:00 PM - 1:00 PM",
+          "title": "Committee Meeting Time",
+          "detail": "CHONY Committees",
+          "location": null,
+          "hasVideo": false
+        }
+      ]
+    }
+  },
+  "lunch": {
+    "Tuesday": "Vodka pasta and chicken fingers from Wahi",
+    "Wednesday": "Greek salad, pasta salad, and sandwiches from Wahi",
+    "Thursday": "Shawarma, hummus, & falafel from Golan"
+  }
+}
