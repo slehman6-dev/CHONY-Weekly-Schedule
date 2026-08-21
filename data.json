@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T14:03:53.079Z",
+  "updatedAt": "2026-08-21T23:23:15.592Z",
   "days": {
     "2026-08-17": {
       "dayName": "Monday",
@@ -112,8 +112,8 @@
     }
   },
   "lunch": {
-    "Tuesday": "Vodka pasta and chicken fingers from Wahi",
-    "Wednesday": "Greek salad, pasta salad, and sandwiches from Wahi",
-    "Thursday": "Shawarma, hummus, & falafel from Golan"
+    "Tuesday": "Tacos from Wahi",
+    "Wednesday": "Sweet potatoes, salad, pasta salad, veggies, and chicken from Wahi",
+    "Thursday": "Pizza from Broadway Slice"
   }
 }
