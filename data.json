@@ -1,48 +1,48 @@
 {
-  "updatedAt": "2026-08-21T23:23:15.592Z",
+  "updatedAt": "2026-08-24T12:42:37.452Z",
   "days": {
-    "2026-08-17": {
+    "2026-08-24": {
       "dayName": "Monday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "From Referral to Transplant: Examining Inequities Across the Transplant Continuum",
-          "detail": "Mercedes Martinez MD · Zoom Conference Link",
+          "title": "Intern Inpatient Orientation",
+          "detail": "CHONY Chiefs",
           "location": "Streamed from McIntosh Conference Room",
-          "hasVideo": false
+          "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Intern Conference: Introduction to Complex Care",
-          "detail": "Divya Lakhaney MD · Zoom Conference Link",
+          "title": "Intern Conference: Intern Curriculum Introduction",
+          "detail": "Patrisha Woolard MD PhD · Victoria Robinson MD",
           "location": "Streamed from McIntosh Conference Room",
-          "hasVideo": false
+          "hasVideo": true
         },
         {
           "time": null,
-          "title": "Senior Conference: Resident-Directed Wellness Time",
-          "detail": null,
-          "location": null,
+          "title": "Senior Conference: RAMP: Literature Review",
+          "detail": "Shoshana Friedman MD · Kendal Furman MPH · Senior Conference Link",
+          "location": "Streamed from Residency Lounge",
           "hasVideo": false
         }
       ]
     },
-    "2026-08-18": {
+    "2026-08-25": {
       "dayName": "Tuesday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Teach Senior Morning Report",
-          "detail": "Madeleine Fish MD · Zoom Conference Link",
+          "title": "Teach Senior Board Review: Emergency Medicine",
+          "detail": "Genefer Duran Uena MD",
           "location": "Streamed from McIntosh Conference Room",
-          "hasVideo": false
+          "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Enteral Nutrition Fundamentals: A Resident's Survival Guide to Formula Selection, Ordering, and Access",
-          "detail": "Chelsey Bauer MS,RD,CSP,CLC · Kyle Hampson PharmD, MPH, BCNSP, BCPPS, CNSC, FASPEN · Jessica Winter · Zoom Conference Link",
+          "title": "Evaluation and Management of the Well-appearing Febrile Infant: Doing Less, Safely",
+          "detail": "Carlos Plancarte MD Msc",
           "location": "Streamed from McIntosh Conference Room",
-          "hasVideo": false
+          "hasVideo": true
         },
         {
           "time": null,
@@ -53,7 +53,7 @@
         }
       ]
     },
-    "2026-08-19": {
+    "2026-08-26": {
       "dayName": "Wednesday",
       "sessions": [
         {
@@ -65,33 +65,33 @@
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Legislative Advocacy Series",
-          "detail": "Children as Pedestrians: Making New York's Streets Safer for Kids · Kathleen Harwood MD · Kathryn Varghese MD · Joshua Goodman MD · Zoom Conference Link",
-          "location": "Streamed from the McIntosh Conference Room",
+          "title": "Mock Code",
+          "detail": "Lily McCarthy MD · Julia Holt MD · In person in the McIntosh Conference Room · *Residents only*",
+          "location": null,
           "hasVideo": false
         }
       ]
     },
-    "2026-08-20": {
+    "2026-08-27": {
       "dayName": "Thursday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Quality and Patient Safety: An Overview",
-          "detail": "Cynthia Okerfelt RN · Zoom Conference Link",
+          "title": "Narrative Medicine Series",
+          "detail": "Narrative Medicine Committee",
           "location": "Streamed from McIntosh Conference Room",
-          "hasVideo": false
+          "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Mock Code",
-          "detail": "Jean Cho MD · Kathryn Varghese MD · Zoom Conference Link",
+          "title": "Introduction to Social Work and Case Management",
+          "detail": "Rachel Ballen RN · Nadine Huggins LCSW",
           "location": "Streamed from McIntosh Conference Room",
-          "hasVideo": false
+          "hasVideo": true
         }
       ]
     },
-    "2026-08-21": {
+    "2026-08-28": {
       "dayName": "Friday",
       "sessions": [
         {
@@ -103,10 +103,10 @@
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Committee Meeting Time",
-          "detail": "CHONY Committees",
-          "location": null,
-          "hasVideo": false
+          "title": "Wellness Conference",
+          "detail": "Wellness Committee",
+          "location": "Streamed from McIntosh Conference Room",
+          "hasVideo": true
         }
       ]
     }
