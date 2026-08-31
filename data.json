@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-08-24T12:44:17.343Z",
+  "updatedAt": "2026-08-31T12:03:45.846Z",
   "days": {
-    "2026-08-24": {
+    "2026-08-31": {
       "dayName": "Monday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Intern Inpatient Orientation",
-          "detail": "CHONY Chiefs",
+          "title": "Introduction to Health Equity Rounds at CHONY",
+          "detail": "Shyam Desai MD · Margaret Shevik MD PhD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Intern Conference: Intern Curriculum Introduction",
-          "detail": "Patrisha Woolard MD PhD · Victoria Robinson MD",
-          "location": "Streamed from McIntosh Conference Room",
-          "hasVideo": true
+          "title": "Intern Conference: Wellness Time",
+          "detail": null,
+          "location": null,
+          "hasVideo": false
         },
         {
           "time": null,
-          "title": "Senior Conference: RAMP: Literature Review",
-          "detail": "Shoshana Friedman MD · Kendal Furman MPH · Senior Conference Link",
+          "title": "Senior Conference: Chief Check-In",
+          "detail": "CHONY Chiefs",
           "location": "Streamed from Residency Lounge",
-          "hasVideo": false
+          "hasVideo": true
         }
       ]
     },
-    "2026-08-25": {
+    "2026-09-01": {
       "dayName": "Tuesday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Teach Senior Board Review: Emergency Medicine",
+          "title": "Teach Senior Morning Report",
           "detail": "Genefer Duran Uena MD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Evaluation and Management of the Well-appearing Febrile Infant: Doing Less, Safely",
-          "detail": "Carlos Plancarte MD Msc",
+          "title": "Neurology: Decode Neuro Part 2",
+          "detail": "Melanie Gershman MD · Zahra Zhu MD · Shaker Dukkipati MD PhD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
@@ -53,45 +53,45 @@
         }
       ]
     },
-    "2026-08-26": {
+    "2026-09-02": {
       "dayName": "Wednesday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Resident-Directed Wellness Time",
-          "detail": null,
-          "location": null,
+          "title": "Chief of Service",
+          "detail": "Beyond the Cytokine Storm: Making Sense of Hyperinflammation · Saara Kaviany DO · Chief of Service Zoom Link",
+          "location": "Streamed from the McIntosh Conference Room",
           "hasVideo": false
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Mock Code",
-          "detail": "Lily McCarthy MD · Julia Holt MD · In person in the McIntosh Conference Room · *Residents only*",
-          "location": null,
-          "hasVideo": false
+          "title": "Global Health Conference Series",
+          "detail": "Global Health Committee",
+          "location": "Streamed from the McIntosh Conference Room",
+          "hasVideo": true
         }
       ]
     },
-    "2026-08-27": {
+    "2026-09-03": {
       "dayName": "Thursday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Narrative Medicine Series",
-          "detail": "Narrative Medicine Committee",
+          "title": "SAR Morning Report",
+          "detail": "Andrew Dorritie MD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Introduction to Social Work and Case Management",
-          "detail": "Rachel Ballen RN · Nadine Huggins LCSW",
+          "title": "BERT De-Escalation Conference Series",
+          "detail": "Elena Asimow DNP",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         }
       ]
     },
-    "2026-08-28": {
+    "2026-09-04": {
       "dayName": "Friday",
       "sessions": [
         {
@@ -103,8 +103,8 @@
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Wellness Conference",
-          "detail": "Wellness Committee",
+          "title": "Kahoot Board Review",
+          "detail": "Andrew Dorritie MD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         }
@@ -112,8 +112,8 @@
     }
   },
   "lunch": {
-    "Tuesday": "Tacos from Wahi",
-    "Wednesday": "Sweet potatoes, salad, pasta salad, veggies, and chicken from Wahi",
-    "Thursday": "Pizza from Broadway Slice"
+    "Tuesday": "Vodka pasta and chicken fingers from Wahi",
+    "Wednesday": "Greek salad, pasta salad, and sandwiches from Wahi",
+    "Thursday": "El Malecon"
   }
 }
