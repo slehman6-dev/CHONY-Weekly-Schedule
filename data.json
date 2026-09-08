@@ -1,46 +1,39 @@
 {
-  "updatedAt": "2026-09-04T18:51:33.220Z",
+  "updatedAt": "2026-09-08T12:24:22.658Z",
   "days": {
-    "2026-08-31": {
+    "2026-09-07": {
       "dayName": "Monday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Introduction to Health Equity Rounds at CHONY",
-          "detail": "Shyam Desai MD · Margaret Shevik MD PhD",
-          "location": "Streamed from McIntosh Conference Room",
-          "hasVideo": true
-        },
-        {
-          "time": "12:00 PM - 1:00 PM",
-          "title": "Intern Conference: Wellness Time",
+          "title": "Cancelled for Labor Day",
           "detail": null,
           "location": null,
           "hasVideo": false
         },
         {
-          "time": null,
-          "title": "Senior Conference: Chief Check-In",
-          "detail": "CHONY Chiefs",
-          "location": "Streamed from Residency Lounge",
-          "hasVideo": true
+          "time": "12:00 PM - 1:00 PM",
+          "title": "Cancelled for Labor Day",
+          "detail": null,
+          "location": null,
+          "hasVideo": false
         }
       ]
     },
-    "2026-09-01": {
+    "2026-09-08": {
       "dayName": "Tuesday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Teach Senior Morning Report",
-          "detail": "Genefer Duran Uena MD",
+          "title": "Teach Senior Board Review: Pulmonology",
+          "detail": "Kaleab Ribbiso MD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Neurology: Decode Neuro Part 2",
-          "detail": "Melanie Gershman MD · Zahra Zhu MD · Shaker Dukkipati MD PhD",
+          "title": "The Pediatric EKG: Don't Let the Squiggles Scare You",
+          "detail": "Olivia Maguire MD PhD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
@@ -53,45 +46,45 @@
         }
       ]
     },
-    "2026-09-02": {
+    "2026-09-09": {
       "dayName": "Wednesday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Chief of Service",
-          "detail": "Beyond the Cytokine Storm: Making Sense of Hyperinflammation · Saara Kaviany DO · Chief of Service Zoom Link",
-          "location": "Streamed from the McIntosh Conference Room",
+          "title": "Career Day",
+          "detail": "Resident Attendance Required · Please see separate Career Day email for locations!",
+          "location": null,
           "hasVideo": false
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Global Health Conference Series",
-          "detail": "Global Health Committee",
+          "title": "QI Lunch: AIM Statements and Key Driver Diagrams",
+          "detail": "Ryan Powers MD · Alice Tao MD · Abhishek Gupta MD · Daniela Nilo MD · Dani Abraham MD · Isabel Alland MD · Becca Berger MD",
           "location": "Streamed from the McIntosh Conference Room",
           "hasVideo": true
         }
       ]
     },
-    "2026-09-03": {
+    "2026-09-10": {
       "dayName": "Thursday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "SAR Morning Report",
-          "detail": "Andrew Dorritie MD",
+          "title": "Faculty Morning Report: Liver Transplantation 101",
+          "detail": "Elise Kang MD MS",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "BERT De-Escalation Conference Series",
-          "detail": "Elena Asimow DNP",
-          "location": "Streamed from McIntosh Conference Room",
-          "hasVideo": true
+          "title": "Mock Code",
+          "detail": "Gina Liu MD · Margaret Anne Smith MD · In-person in the McIntosh Conference Room · *Residents only*",
+          "location": null,
+          "hasVideo": false
         }
       ]
     },
-    "2026-09-04": {
+    "2026-09-11": {
       "dayName": "Friday",
       "sessions": [
         {
@@ -103,9 +96,9 @@
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Kahoot Board Review",
-          "detail": "Andrew Dorritie MD",
-          "location": "Streamed from McIntosh Conference Room",
+          "title": "Routine Residency-Wide Meeting",
+          "detail": "CHONY Chiefs & OMEDI · *Residents only*",
+          "location": "Streamed from the McIntosh Conference Room",
           "hasVideo": true
         }
       ]
