@@ -1,39 +1,46 @@
 {
-  "updatedAt": "2026-09-11T19:27:57.912Z",
+  "updatedAt": "2026-09-14T14:40:26.576Z",
   "days": {
-    "2026-09-07": {
+    "2026-09-14": {
       "dayName": "Monday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Cancelled for Labor Day",
-          "detail": null,
-          "location": null,
-          "hasVideo": false
+          "title": "PDIC: Introduction to Washington Heights",
+          "detail": "Abhishek Gupta MD · Kaleab Ribbiso MD · Stacey Franco MD",
+          "location": "Streamed from McIntosh Conference Room",
+          "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Cancelled for Labor Day",
-          "detail": null,
-          "location": null,
+          "title": "Intern Conference: Recruitment Check-In",
+          "detail": "Patrisha Woolard MD, PhD",
+          "location": "Streamed from McIntosh Conference Room",
+          "hasVideo": true
+        },
+        {
+          "time": null,
+          "title": "Senior Conference: Resident as Teacher: Effective Presentations",
+          "detail": "Shoshana Friedman MD · Senior Conference Link",
+          "location": "Streamed from Residency Lounge",
           "hasVideo": false
         }
       ]
     },
-    "2026-09-08": {
+    "2026-09-15": {
       "dayName": "Tuesday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Teach Senior Board Review: Pulmonology",
+          "title": "Teach Senior Morning Report",
           "detail": "Kaleab Ribbiso MD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "The Pediatric EKG: Don't Let the Squiggles Scare You",
-          "detail": "Olivia Maguire MD PhD",
+          "title": "PEM Conference Series: Headache",
+          "detail": "Hannah Patterson DO",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
@@ -46,60 +53,60 @@
         }
       ]
     },
-    "2026-09-09": {
+    "2026-09-16": {
       "dayName": "Wednesday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Career Day",
-          "detail": "Resident Attendance Required · Please see separate Career Day email for locations!",
-          "location": null,
+          "title": "Chief of Service",
+          "detail": "The Missing Link: Community Health Workers in Pediatric Practice · Adriana Matiz MD · Chief of Service Zoom Link",
+          "location": "Streamed from McIntosh Conference Room",
           "hasVideo": false
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "QI Lunch: AIM Statements and Key Driver Diagrams",
-          "detail": "Ryan Powers MD · Alice Tao MD · Abhishek Gupta MD · Daniela Nilo MD · Dani Abraham MD · Isabel Alland MD · Becca Berger MD",
+          "title": "Pneumonia and Parapneumonic Effusions",
+          "detail": "Nooralam Rai MD",
           "location": "Streamed from the McIntosh Conference Room",
           "hasVideo": true
         }
       ]
     },
-    "2026-09-10": {
+    "2026-09-17": {
       "dayName": "Thursday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Faculty Morning Report: Liver Transplantation 101",
-          "detail": "Elise Kang MD MS",
+          "title": "Infection Prevention and Control: All Things CLABSI",
+          "detail": "Irene Frantzis MBBS · Lital Alcalay MD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Mock Code",
-          "detail": "Gina Liu MD · Margaret Anne Smith MD · In-person in the McIntosh Conference Room · *Residents only*",
-          "location": null,
-          "hasVideo": false
+          "title": "Legislative Advocacy Series",
+          "detail": "Abhishek Gupta MD · Daniela Nilo MD",
+          "location": "Streamed from McIntosh Conference Room",
+          "hasVideo": true
         }
       ]
     },
-    "2026-09-11": {
+    "2026-09-18": {
       "dayName": "Friday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Resident-Directed Wellness Time",
-          "detail": null,
-          "location": null,
+          "title": "Grand Rounds",
+          "detail": "Mastering the Art and Culture of Adaptive Teaching · H. Barrett Fromme MD, MHPE · Grand Rounds Zoom Webinar",
+          "location": "Streamed from the McIntosh Conference Room",
           "hasVideo": false
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Routine Residency-Wide Meeting",
-          "detail": "CHONY Chiefs & OMEDI · *Residents only*",
-          "location": "Streamed from the McIntosh Conference Room",
-          "hasVideo": true
+          "title": "Committee Meeting Time",
+          "detail": null,
+          "location": null,
+          "hasVideo": false
         }
       ]
     }
