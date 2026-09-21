@@ -1,48 +1,48 @@
 {
-  "updatedAt": "2026-09-21T00:45:17.565Z",
+  "updatedAt": "2026-09-21T10:25:28.392Z",
   "days": {
-    "2026-09-14": {
+    "2026-09-21": {
       "dayName": "Monday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "PDIC: Introduction to Washington Heights",
-          "detail": "Abhishek Gupta MD · Kaleab Ribbiso MD · Stacey Franco MD",
-          "location": "Streamed from McIntosh Conference Room",
-          "hasVideo": true
+          "title": "Resident-Directed Wellness Time",
+          "detail": null,
+          "location": null,
+          "hasVideo": false
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Intern Conference: Recruitment Check-In",
+          "title": "Intern Conference: Check-in with Patrisha",
           "detail": "Patrisha Woolard MD, PhD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
         {
           "time": null,
-          "title": "Senior Conference: Resident as Teacher: Effective Presentations",
-          "detail": "Shoshana Friedman MD · Senior Conference Link",
+          "title": "Senior Conference: Leadership/Professionalism 1.0",
+          "detail": "Lauren Sanlorenzo MD · Senior Conference Link",
           "location": "Streamed from Residency Lounge",
           "hasVideo": false
         }
       ]
     },
-    "2026-09-15": {
+    "2026-09-22": {
       "dayName": "Tuesday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Teach Senior Morning Report",
-          "detail": "Kaleab Ribbiso MD",
+          "title": "Teach Senior Board Review: Psychosocial Issues",
+          "detail": "Mathilde Hainaut MD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "PEM Conference Series: Headache",
-          "detail": "Hannah Patterson DO",
-          "location": "Streamed from McIntosh Conference Room",
-          "hasVideo": true
+          "title": "Mock Code",
+          "detail": "Julia Green MD · Briana Benoit MD · *In-person in the McIntosh Conference Room* · *Residents only*",
+          "location": null,
+          "hasVideo": false
         },
         {
           "time": null,
@@ -53,60 +53,60 @@
         }
       ]
     },
-    "2026-09-16": {
+    "2026-09-23": {
       "dayName": "Wednesday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Chief of Service",
-          "detail": "The Missing Link: Community Health Workers in Pediatric Practice · Adriana Matiz MD · Chief of Service Zoom Link",
-          "location": "Streamed from McIntosh Conference Room",
+          "title": "Resident-Directed Wellness Time",
+          "detail": null,
+          "location": null,
           "hasVideo": false
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Pneumonia and Parapneumonic Effusions",
-          "detail": "Nooralam Rai MD",
+          "title": "Inpatient Status Asthmaticus",
+          "detail": "Sumeet Banker MD MPH",
           "location": "Streamed from the McIntosh Conference Room",
           "hasVideo": true
         }
       ]
     },
-    "2026-09-17": {
+    "2026-09-24": {
       "dayName": "Thursday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Infection Prevention and Control: All Things CLABSI",
-          "detail": "Irene Frantzis MBBS · Lital Alcalay MD",
+          "title": "Complex Care Series: Spasticity",
+          "detail": "Hana Azizi MD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Legislative Advocacy Series",
-          "detail": "Abhishek Gupta MD · Daniela Nilo MD",
-          "location": "Streamed from McIntosh Conference Room",
-          "hasVideo": true
+          "title": "Resident-Directed Wellness Time",
+          "detail": null,
+          "location": null,
+          "hasVideo": false
         }
       ]
     },
-    "2026-09-18": {
+    "2026-09-25": {
       "dayName": "Friday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Grand Rounds",
-          "detail": "Mastering the Art and Culture of Adaptive Teaching · H. Barrett Fromme MD, MHPE · Grand Rounds Zoom Webinar",
-          "location": "Streamed from the McIntosh Conference Room",
+          "title": "Resident-Directed Wellness Time",
+          "detail": null,
+          "location": null,
           "hasVideo": false
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Committee Meeting Time",
-          "detail": null,
-          "location": null,
-          "hasVideo": false
+          "title": "Wellness Noon Activity",
+          "detail": "Wellness Committee",
+          "location": "Streamed from McIntosh Conference Room",
+          "hasVideo": true
         }
       ]
     }
