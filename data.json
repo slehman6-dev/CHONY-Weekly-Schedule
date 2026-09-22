@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T01:35:16.673Z",
+  "updatedAt": "2026-09-22T01:43:52.693Z",
   "days": {
     "2026-09-21": {
       "dayName": "Monday",
@@ -112,8 +112,8 @@
     }
   },
   "lunch": {
-    "Tuesday": "Vodka pasta and chicken fingers from Wahi",
-    "Wednesday": "Greek salad, pasta salad, and sandwiches from Wahi",
-    "Thursday": "El Malecon"
+    "Tuesday": "Hummus, pita, and shawarma from Golan",
+    "Wednesday": "Salad, pasta salad, grilled chicken, and sweet potatoes from Wahi",
+    "Thursday": "Thai food from Tung Thong Thai"
   }
 }
