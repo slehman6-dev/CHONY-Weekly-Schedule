@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-09-22T01:44:20.091Z",
+  "updatedAt": "2026-09-28T18:46:32.600Z",
   "days": {
-    "2026-09-21": {
+    "2026-09-28": {
       "dayName": "Monday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Resident-Directed Wellness Time",
-          "detail": null,
-          "location": null,
-          "hasVideo": false
+          "title": "Sedation 101: Tips and Tricks From Your Clinical Pharmacist",
+          "detail": "Dimitrios Savva PharmD, MHA, BCPPS",
+          "location": "Streamed from McIntosh Conference Room",
+          "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Intern Conference: Check-in with Patrisha",
-          "detail": "Patrisha Woolard MD, PhD",
+          "title": "Intern Conference: Resident as Teacher: Part 2",
+          "detail": "Shoshana Friedman MD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
         {
           "time": null,
-          "title": "Senior Conference: Leadership/Professionalism 1.0",
-          "detail": "Lauren Sanlorenzo MD · Senior Conference Link",
+          "title": "Senior Conference: Genetics Board Review",
+          "detail": "Odelya Kaufman MD, PhD · Senior Conference Link",
           "location": "Streamed from Residency Lounge",
           "hasVideo": false
         }
       ]
     },
-    "2026-09-22": {
+    "2026-09-29": {
       "dayName": "Tuesday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Teach Senior Board Review: Psychosocial Issues",
+          "title": "Teach Senior Morning Report",
           "detail": "Mathilde Hainaut MD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Mock Code",
-          "detail": "Julia Green MD · Briana Benoit MD · *In-person in the McIntosh Conference Room* · *Residents only*",
+          "title": "Resident-Directed Wellness Time",
+          "detail": null,
           "location": null,
           "hasVideo": false
         },
@@ -53,58 +53,58 @@
         }
       ]
     },
-    "2026-09-23": {
+    "2026-09-30": {
       "dayName": "Wednesday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Resident-Directed Wellness Time",
-          "detail": null,
-          "location": null,
+          "title": "Chief of Service",
+          "detail": "Supporting the Next Generation of Physician-Scientists: Why it Matters and How We Can Do Better · Margaret Shevik MD, PhD · Chief of Service Zoom Link",
+          "location": "Streamed from McIntosh Conference Room",
           "hasVideo": false
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Inpatient Status Asthmaticus",
-          "detail": "Sumeet Banker MD MPH",
+          "title": "PEM Procedural Workshop: Airway",
+          "detail": "Lindsay Tishberg MD, MPH",
           "location": "Streamed from the McIntosh Conference Room",
           "hasVideo": true
         }
       ]
     },
-    "2026-09-24": {
+    "2026-10-01": {
       "dayName": "Thursday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Complex Care Series: Spasticity",
-          "detail": "Hana Azizi MD",
+          "title": "SAR Morning Report",
+          "detail": "David Natanov MD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Resident-Directed Wellness Time",
-          "detail": null,
-          "location": null,
-          "hasVideo": false
+          "title": "Respiratory Failure",
+          "detail": "Aliva De MD",
+          "location": "Streamed from McIntosh Conference Room",
+          "hasVideo": true
         }
       ]
     },
-    "2026-09-25": {
+    "2026-10-02": {
       "dayName": "Friday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Resident-Directed Wellness Time",
-          "detail": null,
+          "title": "Hispanic Heritage Grand Rounds",
+          "detail": "Hispanic Contributions to Medical Research in the United States: The Weaving of Two Schools of Thought · Diego Jaramillo MD, MPH, FACR · Please join us in person in the McIntosh Conference Room · Grand Rounds Zoom Webinar",
           "location": null,
           "hasVideo": false
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Wellness Noon Activity",
-          "detail": "Wellness Committee",
+          "title": "Kahoot Board Review",
+          "detail": null,
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         }
@@ -112,8 +112,8 @@
     }
   },
   "lunch": {
-    "Tuesday": "Hummus, pita, and shawarma from Golan",
-    "Wednesday": "Salad, pasta salad, grilled chicken, and sweet potatoes from Wahi",
-    "Thursday": "Thai food from Tung Thong Thai"
+    "Tuesday": "Vodka pasta and chicken fingers from Wahi",
+    "Wednesday": "Greek salad, pasta salad, and sandwiches from Wahi",
+    "Thursday": "El Malecon"
   }
 }
