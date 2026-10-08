@@ -1,110 +1,110 @@
 {
-  "updatedAt": "2026-09-28T18:47:10.581Z",
+  "updatedAt": "2026-10-08T14:54:32.717Z",
   "days": {
-    "2026-09-28": {
+    "2026-10-05": {
       "dayName": "Monday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Sedation 101: Tips and Tricks From Your Clinical Pharmacist",
-          "detail": "Dimitrios Savva PharmD, MHA, BCPPS",
+          "title": "Radiology Conference Series: Chest",
+          "detail": "Mark Liszewski MD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Intern Conference: Resident as Teacher: Part 2",
-          "detail": "Shoshana Friedman MD",
+          "title": "Intern Conference: Individualized Learning Plans",
+          "detail": "Lauren Sanlorenzo MD · Patrisha Woolard MD PhD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
         {
           "time": null,
-          "title": "Senior Conference: Genetics Board Review",
-          "detail": "Odelya Kaufman MD, PhD · Senior Conference Link",
-          "location": "Streamed from Residency Lounge",
+          "title": "Senior Conference: ACE Committee",
+          "detail": "Teams Link",
+          "location": "Streamed from the 10N Conference Room",
           "hasVideo": false
         }
       ]
     },
-    "2026-09-29": {
+    "2026-10-06": {
       "dayName": "Tuesday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Teach Senior Morning Report",
-          "detail": "Mathilde Hainaut MD",
+          "title": "Teach Senior Board Review: ENT",
+          "detail": "Ryan Powers MD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
+          "title": "Acute Kidney Injury",
+          "detail": "Denise Nicole Villanueva MD",
+          "location": "Streamed from McIntosh Conference Room",
+          "hasVideo": true
+        },
+        {
+          "time": null,
+          "title": "Psychosocial Rounds: Purple Team",
+          "detail": null,
+          "location": null,
+          "hasVideo": false
+        }
+      ]
+    },
+    "2026-10-07": {
+      "dayName": "Wednesday",
+      "sessions": [
+        {
+          "time": "8:00 AM - 9:00 AM",
+          "title": "Chief of Service",
+          "detail": "The PDA Pendulum: Should We Still Be Treating Patent Ductus Arteriosus? · Lauren Smith MD · Chief of Service Zoom Link",
+          "location": "Streamed from McIntosh Conference Room",
+          "hasVideo": false
+        },
+        {
+          "time": "12:00 PM - 1:00 PM",
+          "title": "Inborn Errors of Metabolism",
+          "detail": "Alejandro Iglesias MD",
+          "location": "Streamed from the McIntosh Conference Room",
+          "hasVideo": true
+        }
+      ]
+    },
+    "2026-10-08": {
+      "dayName": "Thursday",
+      "sessions": [
+        {
+          "time": "8:00 AM - 9:00 AM",
+          "title": "CALM Conference Series",
+          "detail": "Elena Insley MD · Danielle Ahn MD",
+          "location": "Streamed from McIntosh Conference Room",
+          "hasVideo": true
+        },
+        {
+          "time": "12:00 PM - 1:00 PM",
+          "title": "Mock Code",
+          "detail": "Christina Andreou MD · Mona Bugaighis MD · McIntosh Conference Room · *In-Person Only* · *Residents Only*",
+          "location": null,
+          "hasVideo": false
+        }
+      ]
+    },
+    "2026-10-09": {
+      "dayName": "Friday",
+      "sessions": [
+        {
+          "time": "8:00 AM - 9:00 AM",
           "title": "Resident-Directed Wellness Time",
           "detail": null,
           "location": null,
           "hasVideo": false
         },
         {
-          "time": null,
-          "title": "Psychosocial Rounds: Cancelled",
-          "detail": null,
-          "location": null,
-          "hasVideo": false
-        }
-      ]
-    },
-    "2026-09-30": {
-      "dayName": "Wednesday",
-      "sessions": [
-        {
-          "time": "8:00 AM - 9:00 AM",
-          "title": "Chief of Service",
-          "detail": "Supporting the Next Generation of Physician-Scientists: Why it Matters and How We Can Do Better · Margaret Shevik MD, PhD · Chief of Service Zoom Link",
-          "location": "Streamed from McIntosh Conference Room",
-          "hasVideo": false
-        },
-        {
           "time": "12:00 PM - 1:00 PM",
-          "title": "PEM Procedural Workshop: Airway",
-          "detail": "Lindsay Tishberg MD, MPH",
-          "location": "Streamed from the McIntosh Conference Room",
-          "hasVideo": true
-        }
-      ]
-    },
-    "2026-10-01": {
-      "dayName": "Thursday",
-      "sessions": [
-        {
-          "time": "8:00 AM - 9:00 AM",
-          "title": "SAR Morning Report",
-          "detail": "David Natanov MD",
-          "location": "Streamed from McIntosh Conference Room",
-          "hasVideo": true
-        },
-        {
-          "time": "12:00 PM - 1:00 PM",
-          "title": "Respiratory Failure",
-          "detail": "Aliva De MD",
-          "location": "Streamed from McIntosh Conference Room",
-          "hasVideo": true
-        }
-      ]
-    },
-    "2026-10-02": {
-      "dayName": "Friday",
-      "sessions": [
-        {
-          "time": "8:00 AM - 9:00 AM",
-          "title": "Hispanic Heritage Grand Rounds",
-          "detail": "Hispanic Contributions to Medical Research in the United States: The Weaving of Two Schools of Thought · Diego Jaramillo MD, MPH, FACR · Please join us in person in the McIntosh Conference Room · Grand Rounds Zoom Webinar",
-          "location": null,
-          "hasVideo": false
-        },
-        {
-          "time": "12:00 PM - 1:00 PM",
-          "title": "Kahoot Board Review",
-          "detail": null,
+          "title": "Routine Residency-Wide Meeting",
+          "detail": "OMEDI",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         }
