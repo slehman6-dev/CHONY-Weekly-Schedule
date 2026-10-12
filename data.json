@@ -1,112 +1,112 @@
 {
-  "updatedAt": "2026-10-11T22:07:53.915Z",
+  "updatedAt": "2026-10-12T14:22:41.510Z",
   "days": {
-    "2026-10-05": {
+    "2026-10-12": {
       "dayName": "Monday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Radiology Conference Series: Chest",
-          "detail": "Mark Liszewski MD",
+          "title": "SAR Morning Report",
+          "detail": "Kelsey Larkin MD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Intern Conference: Individualized Learning Plans",
-          "detail": "Lauren Sanlorenzo MD · Patrisha Woolard MD PhD",
+          "title": "Intern Conference: Asthma",
+          "detail": "Victoria Robinson MD · Patrisha Woolard MD PhD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
         {
           "time": null,
-          "title": "Senior Conference: ACE Committee",
-          "detail": "Teams Link",
-          "location": "Streamed from the 10N Conference Room",
-          "hasVideo": false
+          "title": "Senior Conference: Care Coordination and Discharge Planning for CHONY Residents",
+          "detail": "Rachel Ballen, BSN, RN, CCM · Iman Omer, BSN, RN, CCM",
+          "location": "Streamed from Residency Lounge",
+          "hasVideo": true
         }
       ]
     },
-    "2026-10-06": {
+    "2026-10-13": {
       "dayName": "Tuesday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Teach Senior Board Review: ENT",
-          "detail": "Ryan Powers MD",
+          "title": "CHONY Psychotherapy Services",
+          "detail": "Missy Hall, LCAT, MT-BC, NMT | Music Psychotherapist · Dr. Susanne Bifano, PsyD, LCAT, ATR-BC | Art Psychotherapist",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Acute Kidney Injury",
-          "detail": "Denise Nicole Villanueva MD",
+          "title": "Palliative Care Conference Series",
+          "detail": "Max Lindeman MD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
         {
           "time": null,
-          "title": "Psychosocial Rounds: Purple Team",
+          "title": "Psychosocial Rounds: Green Team",
           "detail": null,
           "location": null,
           "hasVideo": false
         }
       ]
     },
-    "2026-10-07": {
+    "2026-10-14": {
       "dayName": "Wednesday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Chief of Service",
-          "detail": "The PDA Pendulum: Should We Still Be Treating Patent Ductus Arteriosus? · Lauren Smith MD · Chief of Service Zoom Link",
-          "location": "Streamed from McIntosh Conference Room",
+          "title": "17th Annual Steve Miller Education Day",
+          "detail": "Please see this link for full itinerary and registration details! · Chasing Cures: One Doctor’s Race to Save His Own Life--and Others · David Fajgenbaum, MD, MBA, MSc · Co-Founder, Every Cure · Associate Professor of Medicine (Translational Medicine & Human Genetics), Perelman School of Medicine · Zoom Link · Please join us in person in the Alumni Auditorium",
+          "location": null,
           "hasVideo": false
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Inborn Errors of Metabolism",
-          "detail": "Alejandro Iglesias MD",
-          "location": "Streamed from the McIntosh Conference Room",
-          "hasVideo": true
+          "title": "Lunch and Steven Z. Miller Student Fellowship Presentations",
+          "detail": "Zoom Link",
+          "location": "Streamed from the Faculty Club",
+          "hasVideo": false
         }
       ]
     },
-    "2026-10-08": {
+    "2026-10-15": {
       "dayName": "Thursday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "CALM Conference Series",
-          "detail": "Elena Insley MD · Danielle Ahn MD",
+          "title": "Patient Safety Series: Pharmacy",
+          "detail": "Maria Sedky Saad PharmD · Belyin Gutierrez Euceda PharmD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Mock Code",
-          "detail": "Christina Andreou MD · Mona Bugaighis MD · McIntosh Conference Room · *In-Person Only* · *Residents Only*",
-          "location": null,
-          "hasVideo": false
+          "title": "Legislative Advocacy Series",
+          "detail": "Julia Green MD · Sophia Jackman MD · Sophia Murphy MD",
+          "location": "Streamed from McIntosh Conference Room",
+          "hasVideo": true
         }
       ]
     },
-    "2026-10-09": {
+    "2026-10-16": {
       "dayName": "Friday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Resident-Directed Wellness Time",
-          "detail": null,
+          "title": "“Tales of a Frequent Flyer” From a Patient in Doctor's Clothing",
+          "detail": "George Foltin MD · Please join us in person in VP&S Auditorium · Grand Rounds Zoom Webinar",
           "location": null,
           "hasVideo": false
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Routine Residency-Wide Meeting",
-          "detail": "OMEDI",
-          "location": "Streamed from McIntosh Conference Room",
-          "hasVideo": true
+          "title": "CHONY Committee Meeting Time",
+          "detail": null,
+          "location": null,
+          "hasVideo": false
         }
       ]
     }
