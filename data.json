@@ -1,110 +1,110 @@
 {
-  "updatedAt": "2026-10-12T14:26:01.007Z",
+  "updatedAt": "2026-10-19T17:30:07.257Z",
   "days": {
-    "2026-10-12": {
+    "2026-10-19": {
       "dayName": "Monday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "SAR Morning Report",
-          "detail": "Kelsey Larkin MD",
+          "title": "Radiology Conference Series: GI",
+          "detail": "Harsha Garg MD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Intern Conference: Asthma",
+          "title": "Intern Conference: Allergy",
           "detail": "Victoria Robinson MD · Patrisha Woolard MD PhD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
         {
           "time": null,
-          "title": "Senior Conference: Care Coordination and Discharge Planning for CHONY Residents",
-          "detail": "Rachel Ballen, BSN, RN, CCM · Iman Omer, BSN, RN, CCM",
+          "title": "Senior Conference: Career 1.0",
+          "detail": "Lauren Sanlorenzo MD",
           "location": "Streamed from Residency Lounge",
           "hasVideo": true
         }
       ]
     },
-    "2026-10-13": {
+    "2026-10-20": {
       "dayName": "Tuesday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "CHONY Psychotherapy Services",
-          "detail": "Missy Hall, LCAT, MT-BC, NMT | Music Psychotherapist · Dr. Susanne Bifano, PsyD, LCAT, ATR-BC | Art Psychotherapist",
+          "title": "Teach Senior Board Review: Hematology",
+          "detail": "Sydney Pindling MD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Palliative Care Conference Series",
-          "detail": "Max Lindeman MD",
-          "location": "Streamed from McIntosh Conference Room",
-          "hasVideo": true
+          "title": "Mock Code",
+          "detail": "Isabella Lorence MD · Victor Wakim MD · *Residents only* · In-person in the McIntosh Conference Room",
+          "location": null,
+          "hasVideo": false
         },
         {
           "time": null,
-          "title": "Psychosocial Rounds: Green Team",
+          "title": "Psychosocial Rounds: Cancelled",
           "detail": null,
           "location": null,
           "hasVideo": false
         }
       ]
     },
-    "2026-10-14": {
+    "2026-10-21": {
       "dayName": "Wednesday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "17th Annual Steve Miller Education Day",
-          "detail": "Please see this link for full itinerary and registration details! · Chasing Cures: One Doctor’s Race to Save His Own Life--and Others · David Fajgenbaum, MD, MBA, MSc · Co-Founder, Every Cure · Associate Professor of Medicine (Translational Medicine & Human Genetics), Perelman School of Medicine · Zoom Link · Please join us in person in the Alumni Auditorium",
-          "location": null,
-          "hasVideo": false
+          "title": "Town Hall Meeting: Changes to 6T",
+          "detail": "Marina Catallozzi MD · Nicolino Valerio Dorrello MD PhD · *Residents only*",
+          "location": "Streamed from McIntosh Conference Room",
+          "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Lunch and Steven Z. Miller Student Fellowship Presentations",
-          "detail": "Zoom Link",
-          "location": "Streamed from the Faculty Club",
-          "hasVideo": false
+          "title": "Evaluation and Management of Vaginal Bleeding in Pediatric Patients",
+          "detail": "Erin Hannon MD",
+          "location": "Streamed from the McIntosh Conference Room",
+          "hasVideo": true
         }
       ]
     },
-    "2026-10-15": {
+    "2026-10-22": {
       "dayName": "Thursday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Patient Safety Series: Pharmacy",
-          "detail": "Maria Sedky Saad PharmD · Belyin Gutierrez Euceda PharmD",
+          "title": "SAR Morning Report",
+          "detail": "Sara Lehman MD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Legislative Advocacy Series",
-          "detail": "Julia Green MD · Sophia Jackman MD · Sophia Murphy MD",
+          "title": "Endocrine Conference Series: Hypoglycemia",
+          "detail": "Jee-Young N. Ham MD",
           "location": "Streamed from McIntosh Conference Room",
           "hasVideo": true
         }
       ]
     },
-    "2026-10-16": {
+    "2026-10-23": {
       "dayName": "Friday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "“Tales of a Frequent Flyer” From a Patient in Doctor's Clothing",
-          "detail": "George Foltin MD · Please join us in person in VP&S Auditorium · Grand Rounds Zoom Webinar",
+          "title": "From Crawling to Walking: Understanding Artificial Intelligence Through a Pediatric Lens",
+          "detail": "Chethan Sarabu MD · Please join us in person in the McIntosh Conference Room · Grand Rounds Zoom Webinar",
           "location": null,
           "hasVideo": false
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "CHONY Committee Meeting Time",
-          "detail": null,
+          "title": "Recruitment Run-Through",
+          "detail": "*Residents Only* · In-person in the Residency Lounge",
           "location": null,
           "hasVideo": false
         }
@@ -112,8 +112,8 @@
     }
   },
   "lunch": {
-    "Tuesday": "Vodka pasta and chicken fingers from Wahi",
-    "Wednesday": "Greek salad, pasta salad, and sandwiches from Wahi",
-    "Thursday": "Broadway Slice"
+    "Tuesday": "Tacos from Wahi",
+    "Wednesday": "Pizza from Broadway Slice",
+    "Thursday": "Salad, pasta salad, grilled chicken, and sweet potatoes from Wahi"
   }
 }
