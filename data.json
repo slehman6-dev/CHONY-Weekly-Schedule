@@ -1,110 +1,110 @@
 {
-  "updatedAt": "2026-10-21T04:25:38.640Z",
+  "updatedAt": "2026-10-26T19:23:10.881Z",
   "days": {
-    "2026-10-19": {
+    "2026-10-26": {
       "dayName": "Monday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Radiology Conference Series: GI",
-          "detail": "Harsha Garg MD",
-          "location": "Streamed from McIntosh Conference Room",
+          "title": "Narrative Medicine: To Those We've Lost",
+          "detail": "Molly O'Shea MD · Sal Volpe MD · Grace Franzese MD · In person in the McIntosh Conference Room",
+          "location": null,
           "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Intern Conference: Allergy",
-          "detail": "Victoria Robinson MD · Patrisha Woolard MD PhD",
-          "location": "Streamed from McIntosh Conference Room",
+          "title": "Intern Conference: Chief Check-In",
+          "detail": "CHONY Chiefs · In person in the McIntosh Conference Room",
+          "location": null,
           "hasVideo": true
         },
         {
           "time": null,
-          "title": "Senior Conference: Career 1.0",
-          "detail": "Lauren Sanlorenzo MD",
-          "location": "Streamed from Residency Lounge",
+          "title": "Senior Conference: RAMP: Abstract Workshop",
+          "detail": "Shoshana Friedman MD · In person in the Residency Lounge",
+          "location": null,
           "hasVideo": true
         }
       ]
     },
-    "2026-10-20": {
+    "2026-10-27": {
       "dayName": "Tuesday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Teach Senior Board Review: Hematology",
-          "detail": "Sydney Pindling MD",
-          "location": "Streamed from McIntosh Conference Room",
+          "title": "Teach Senior Morning Report",
+          "detail": "Sydney Pindling MD · In person in the McIntosh Conference Room",
+          "location": null,
           "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Mock Code",
-          "detail": "Isabella Lorence MD · Victor Wakim MD · *Residents only* · In-person in the McIntosh Conference Room",
+          "title": "Recruitment Lunch",
+          "detail": "Please join us in person in the Residency Lounge! · *Residents only*",
           "location": null,
           "hasVideo": false
         },
         {
           "time": null,
-          "title": "Psychosocial Rounds: Cancelled",
+          "title": "Psychosocial Rounds: Red Team",
           "detail": null,
           "location": null,
           "hasVideo": false
         }
       ]
     },
-    "2026-10-21": {
+    "2026-10-28": {
       "dayName": "Wednesday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Town Hall Meeting: Changes to 6T",
-          "detail": "Marina Catallozzi MD · Nicolino Valerio Dorrello MD PhD · *Residents only*",
-          "location": "Streamed from McIntosh Conference Room",
-          "hasVideo": true
-        },
-        {
-          "time": "12:00 PM - 1:00 PM",
-          "title": "Evaluation and Management of Vaginal Bleeding in Pediatric Patients",
-          "detail": "Erin Hannon MD",
-          "location": "Streamed from the McIntosh Conference Room",
-          "hasVideo": true
-        }
-      ]
-    },
-    "2026-10-22": {
-      "dayName": "Thursday",
-      "sessions": [
-        {
-          "time": "8:00 AM - 9:00 AM",
-          "title": "SAR Morning Report",
-          "detail": "Sara Lehman MD",
-          "location": "Streamed from McIntosh Conference Room",
-          "hasVideo": true
-        },
-        {
-          "time": "12:00 PM - 1:00 PM",
-          "title": "Endocrine Conference Series: Hypoglycemia",
-          "detail": "Jee-Young N. Ham MD",
-          "location": "Streamed from McIntosh Conference Room",
-          "hasVideo": true
-        }
-      ]
-    },
-    "2026-10-23": {
-      "dayName": "Friday",
-      "sessions": [
-        {
-          "time": "8:00 AM - 9:00 AM",
-          "title": "From Crawling to Walking: Understanding Artificial Intelligence Through a Pediatric Lens",
-          "detail": "Chethan Sarabu MD · Please join us in person in the McIntosh Conference Room · Grand Rounds Zoom Webinar",
+          "title": "Down to Clown: Humor as a Therapeutic Tool",
+          "detail": "Sergio Preciado MD · Chief of Service Zoom Link · In person in the McIntosh Conference Room",
           "location": null,
           "hasVideo": false
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Recruitment Run-Through",
-          "detail": "*Residents Only* · In-person in the Residency Lounge",
+          "title": "QI Lunch: PDSA Cycles",
+          "detail": "Sylvia Zielinski MD · Molly O'Shea MD · Victor Wakim MD · Matthew Green DO · Paris Acquaro MD · Isabella Lorence MD · Nicole Kwan MD · In person in the McIntosh Conference Room · *Residents only*",
+          "location": null,
+          "hasVideo": true
+        }
+      ]
+    },
+    "2026-10-29": {
+      "dayName": "Thursday",
+      "sessions": [
+        {
+          "time": "8:00 AM - 9:00 AM",
+          "title": "SAR Morning Report",
+          "detail": "Sofia Edwards MD · In person in the McIntosh Conference Room",
+          "location": null,
+          "hasVideo": true
+        },
+        {
+          "time": "12:00 PM - 1:00 PM",
+          "title": "Parents as Teachers Series: Coping with the Loss of a Child",
+          "detail": "Molly O'Shea MD · Divya Lakhaney MD · In person in the McIntosh Conference Room",
+          "location": null,
+          "hasVideo": true
+        }
+      ]
+    },
+    "2026-10-30": {
+      "dayName": "Friday",
+      "sessions": [
+        {
+          "time": "8:00 AM - 9:00 AM",
+          "title": "Resident-Directed Wellness Time",
+          "detail": null,
+          "location": null,
+          "hasVideo": false
+        },
+        {
+          "time": "12:00 PM - 1:00 PM",
+          "title": "Halloween Celebration!",
+          "detail": "In person in the McIntosh Conference Room",
           "location": null,
           "hasVideo": false
         }
@@ -112,8 +112,9 @@
     }
   },
   "lunch": {
-    "Tuesday": "Tacos from Wahi",
-    "Wednesday": "Pizza from Broadway Slice",
-    "Thursday": "Salad, pasta salad, grilled chicken, and sweet potatoes from Wahi"
+    "Tuesday": "Vodka pasta and chicken fingers from Wahi",
+    "Wednesday": "Greek salad, pasta salad, and sandwiches from Wahi",
+    "Thursday": "Golan",
+    "Friday": "Broadway Slice"
   }
 }
