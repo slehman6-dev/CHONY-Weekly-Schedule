@@ -1,110 +1,110 @@
 {
-  "updatedAt": "2026-10-26T19:23:44.930Z",
+  "updatedAt": "2026-11-02T14:01:15.397Z",
   "days": {
-    "2026-10-26": {
+    "2026-11-02": {
       "dayName": "Monday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Narrative Medicine: To Those We've Lost",
-          "detail": "Molly O'Shea MD · Sal Volpe MD · Grace Franzese MD · In person in the McIntosh Conference Room",
+          "title": "PHM Morning Report",
+          "detail": "PHM Fellows and Faculty · In person in the McIntosh Conference Room",
           "location": null,
           "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Intern Conference: Chief Check-In",
-          "detail": "CHONY Chiefs · In person in the McIntosh Conference Room",
+          "title": "Intern Conference: A Case of Pediatric Respiratory Distress",
+          "detail": "Rachel Korus MD · In person in the McIntosh Conference Room",
           "location": null,
           "hasVideo": true
         },
         {
           "time": null,
-          "title": "Senior Conference: RAMP: Abstract Workshop",
-          "detail": "Shoshana Friedman MD · In person in the Residency Lounge",
+          "title": "Senior Conference: ACE Committee",
+          "detail": "ACE Committee Link · In person in the 10N Conference Room",
           "location": null,
-          "hasVideo": true
+          "hasVideo": false
         }
       ]
     },
-    "2026-10-27": {
+    "2026-11-03": {
       "dayName": "Tuesday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Teach Senior Morning Report",
-          "detail": "Sydney Pindling MD · In person in the McIntosh Conference Room",
+          "title": "Care Coordination and Discharge Planning for CHONY Residents",
+          "detail": "Rachel Ballen BSN, RN, CCM · Iman Omer BSN, RN, CCM · In person in the McIntosh Conference Room",
+          "location": null,
+          "hasVideo": true
+        },
+        {
+          "time": "12:00 PM - 1:00 PM",
+          "title": "Mock Code",
+          "detail": "Paris Acquaro MD · Georgia Bancheri MD · *Residents Only* · In person in the McIntosh Conference Room",
+          "location": null,
+          "hasVideo": false
+        },
+        {
+          "time": null,
+          "title": "Psychosocial Rounds: Purple Team",
+          "detail": null,
+          "location": null,
+          "hasVideo": false
+        }
+      ]
+    },
+    "2026-11-04": {
+      "dayName": "Wednesday",
+      "sessions": [
+        {
+          "time": "8:00 AM - 9:00 AM",
+          "title": "Chief of Service",
+          "detail": "Beyond the Graft: The Biology and Evolving Landscape of Post Transplant Lymphoproliferative Disease (PTLD) · Molly Ryan MD · Chief of Service Zoom Link · In person in the McIntosh Conference Room",
+          "location": null,
+          "hasVideo": false
+        },
+        {
+          "time": "12:00 PM - 1:00 PM",
+          "title": "Recruitment Lunch",
+          "detail": "*Residents Only* · In person in the Resident Lounge",
+          "location": null,
+          "hasVideo": false
+        }
+      ]
+    },
+    "2026-11-05": {
+      "dayName": "Thursday",
+      "sessions": [
+        {
+          "time": "8:00 AM - 9:00 AM",
+          "title": "SAR Morning Report",
+          "detail": "Mathilde Hainaut MD · In person in the McIntosh Conference Room",
           "location": null,
           "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
           "title": "Recruitment Lunch",
-          "detail": "Please join us in person in the Residency Lounge! · *Residents only*",
-          "location": null,
-          "hasVideo": false
-        },
-        {
-          "time": null,
-          "title": "Psychosocial Rounds: Red Team",
-          "detail": null,
+          "detail": "*Residents Only* · In person in the Resident Lounge",
           "location": null,
           "hasVideo": false
         }
       ]
     },
-    "2026-10-28": {
-      "dayName": "Wednesday",
-      "sessions": [
-        {
-          "time": "8:00 AM - 9:00 AM",
-          "title": "Down to Clown: Humor as a Therapeutic Tool",
-          "detail": "Sergio Preciado MD · Chief of Service Zoom Link · In person in the McIntosh Conference Room",
-          "location": null,
-          "hasVideo": false
-        },
-        {
-          "time": "12:00 PM - 1:00 PM",
-          "title": "QI Lunch: PDSA Cycles",
-          "detail": "Sylvia Zielinski MD · Molly O'Shea MD · Victor Wakim MD · Matthew Green DO · Paris Acquaro MD · Isabella Lorence MD · Nicole Kwan MD · In person in the McIntosh Conference Room · *Residents only*",
-          "location": null,
-          "hasVideo": true
-        }
-      ]
-    },
-    "2026-10-29": {
-      "dayName": "Thursday",
-      "sessions": [
-        {
-          "time": "8:00 AM - 9:00 AM",
-          "title": "SAR Morning Report",
-          "detail": "Sofia Edwards MD · In person in the McIntosh Conference Room",
-          "location": null,
-          "hasVideo": true
-        },
-        {
-          "time": "12:00 PM - 1:00 PM",
-          "title": "Parents as Teachers Series: Coping with the Loss of a Child",
-          "detail": "Molly O'Shea MD · Divya Lakhaney MD · In person in the McIntosh Conference Room",
-          "location": null,
-          "hasVideo": true
-        }
-      ]
-    },
-    "2026-10-30": {
+    "2026-11-06": {
       "dayName": "Friday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Resident-Directed Wellness Time",
-          "detail": null,
+          "title": "Chief of Service",
+          "detail": "To Rest or to Stress? Exercise Interventions in Pediatric Heart Disease · Michael Fremed MD · Chief of Service Zoom Link · In person in the McIntosh Conference Room",
           "location": null,
           "hasVideo": false
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Halloween Celebration!",
-          "detail": "In person in the McIntosh Conference Room",
+          "title": "Recruitment Lunch",
+          "detail": "*Residents Only* · In person in the Resident Lounge",
           "location": null,
           "hasVideo": false
         }
