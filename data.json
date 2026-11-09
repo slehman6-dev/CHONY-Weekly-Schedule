@@ -1,65 +1,65 @@
 {
-  "updatedAt": "2026-11-02T18:40:15.661Z",
+  "updatedAt": "2026-11-09T17:10:30.866Z",
   "days": {
-    "2026-11-02": {
+    "2026-11-09": {
       "dayName": "Monday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "PHM Morning Report",
-          "detail": "PHM Fellows and Faculty · In person in the McIntosh Conference Room",
+          "title": "Intern Curriculum Feedback with PGY2's",
+          "detail": "*Current PGY2's Only* · Victoria Robinson MD · In person in the McIntosh Conference Room",
           "location": null,
           "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Intern Conference: A Case of Pediatric Respiratory Distress",
-          "detail": "Rachel Korus MD · In person in the McIntosh Conference Room",
+          "title": "Intern Conference: Introduction to RAMP",
+          "detail": "Shoshana Friedman MD · In person in the McIntosh Conference Room",
           "location": null,
           "hasVideo": true
         },
         {
           "time": null,
-          "title": "Senior Conference: ACE Committee",
-          "detail": "ACE Committee Link · In person in the 10N Conference Room",
+          "title": "Senior Conference: Journal Club",
+          "detail": "Jose Rodrigues DO PhD · David Natanov MD · Senior Conference Link · In person in the Residency Lounge",
           "location": null,
           "hasVideo": false
         }
       ]
     },
-    "2026-11-03": {
+    "2026-11-10": {
       "dayName": "Tuesday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Care Coordination and Discharge Planning for CHONY Residents",
-          "detail": "Rachel Ballen BSN, RN, CCM · Iman Omer BSN, RN, CCM · In person in the McIntosh Conference Room",
+          "title": "A Diagnosis Shouldn’t Depend on Your Zip Code​: Legislative Advocacy for Equitable Newborn Screening​",
+          "detail": "Matt Green DO MPH · Victor Wakim MD · In person in the McIntosh Conference Room",
           "location": null,
           "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Mock Code",
-          "detail": "Paris Acquaro MD · Georgia Bancheri MD · *Residents Only* · In person in the McIntosh Conference Room",
+          "title": "Recruitment Lunch",
+          "detail": "*Residents Only* · In person in the Resident Lounge",
           "location": null,
           "hasVideo": false
         },
         {
           "time": null,
-          "title": "Psychosocial Rounds: Purple Team",
+          "title": "Psychosocial Rounds: Green Team",
           "detail": null,
           "location": null,
           "hasVideo": false
         }
       ]
     },
-    "2026-11-04": {
+    "2026-11-11": {
       "dayName": "Wednesday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
           "title": "Chief of Service",
-          "detail": "Beyond the Graft: The Biology and Evolving Landscape of Post Transplant Lymphoproliferative Disease (PTLD) · Molly Ryan MD · Chief of Service Zoom Link · In person in the McIntosh Conference Room",
+          "detail": "Why Didn't You Pick Up Your Meds?: Pharmacy Deserts, Medication Access, and Pediatric Considerations · Anna Kuznetsova MD · Chief of Service Zoom Link · In person in the McIntosh Conference Room",
           "location": null,
           "hasVideo": false
         },
@@ -72,13 +72,13 @@
         }
       ]
     },
-    "2026-11-05": {
+    "2026-11-12": {
       "dayName": "Thursday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "SAR Morning Report",
-          "detail": "Mathilde Hainaut MD · In person in the McIntosh Conference Room",
+          "title": "Chief Morning Report",
+          "detail": "CHONY Chiefs · In person in the McIntosh Conference Room",
           "location": null,
           "hasVideo": true
         },
@@ -91,20 +91,20 @@
         }
       ]
     },
-    "2026-11-06": {
+    "2026-11-13": {
       "dayName": "Friday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Chief of Service",
-          "detail": "To Rest or to Stress? Exercise Interventions in Pediatric Heart Disease · Michael Fremed MD · Chief of Service Zoom Link · In person in the McIntosh Conference Room",
+          "title": "2nd Jen-Tien Wung Lectureship Day and Pediatric Grand Rounds",
+          "detail": "Wireless NICU Monitoring · Guilherme M Sant’Anna MD · Professor of Pediatrics · Montreal Children’s Hospital · McGill University Health Center Montréal, Québec · Please join us in person in Alumni Auditorium · Grand Rounds Zoom Webinar",
           "location": null,
           "hasVideo": false
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Recruitment Lunch",
-          "detail": "*Residents Only* · In person in the Resident Lounge",
+          "title": "Committee Meeting Time",
+          "detail": null,
           "location": null,
           "hasVideo": false
         }
@@ -112,9 +112,9 @@
     }
   },
   "lunch": {
-    "Tuesday": "Pizza from Broadway Slice",
-    "Wednesday": "Tacos from Wahi",
-    "Thursday": "El Malecon",
+    "Tuesday": "Vodka pasta and chicken fingers from Wahi",
+    "Wednesday": "Greek salad, pasta salad, and sandwiches from Wahi",
+    "Thursday": "To be determined",
     "Friday": "Salad, pasta salad, grilled chicken, and sweet potatoes from Wahi"
   }
 }
