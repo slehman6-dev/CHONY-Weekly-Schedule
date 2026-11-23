@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-11-23T04:27:36.883Z",
+  "updatedAt": "2026-11-23T12:59:07.827Z",
   "days": {
-    "2026-11-16": {
+    "2026-11-23": {
       "dayName": "Monday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Introduction to Financial Literacy",
-          "detail": "Faith Williams MD · In person in the McIntosh Conference Room",
+          "title": "Complex Care Series: Neuromuscular Scoliosis",
+          "detail": "Jennifer Crotty RN, MA, CPNP · Francesca Graziano MSN, RN, FNP-BC · In person in the McIntosh Conference Room",
           "location": null,
           "hasVideo": true
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Intern Conference: Genetics",
-          "detail": "Victoria Robinson MD · Patrisha Woolard MD, PhD · In person in the McIntosh Conference Room",
+          "title": "Intern Conference: Leadership/Professionalism 1.0",
+          "detail": "Lauren Sanlorenzo MD · In person in the McIntosh Conference Room",
           "location": null,
           "hasVideo": true
         },
         {
           "time": null,
-          "title": "Senior Conference: Chief Check-in",
-          "detail": "CHONY Chiefs · Senior Conference Link · In person in the Residency Lounge",
+          "title": "Senior Conference: RAMP: Survey Design",
+          "detail": "Shoshana Friedman MD · Senior Conference Link · In person in the Residency Lounge",
           "location": null,
           "hasVideo": false
         }
       ]
     },
-    "2026-11-17": {
+    "2026-11-24": {
       "dayName": "Tuesday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "Teach Senior Board Review: Rheumatology",
+          "title": "Teach Senior Morning Report",
           "detail": "Sara Lehman MD · In person in the McIntosh Conference Room",
           "location": null,
           "hasVideo": true
@@ -46,65 +46,65 @@
         },
         {
           "time": null,
-          "title": "No Psychosocial Rounds",
+          "title": "Psychosocial Rounds: Red Team",
           "detail": null,
           "location": null,
           "hasVideo": false
         }
       ]
     },
-    "2026-11-18": {
+    "2026-11-25": {
       "dayName": "Wednesday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
           "title": "Chief of Service",
-          "detail": "Raising the Bar: Improving In-Hospital Cardiac Arrest Care through Education, Debriefing, and Quality Improvement · Sara Lehman MD · Chief of Service Zoom Link · In person in the McIntosh Conference Room",
+          "detail": "A Shot at Protection: Addressing Vaccine Uptake in Pediatric Solid Organ Transplant Candidates and Recipients · Sanya Thomas MD · Chief of Service Zoom Link · In person in the McIntosh Conference Room",
           "location": null,
           "hasVideo": false
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Recruitment Lunch!",
-          "detail": "*Residents only* · In person in the Residency Lounge",
+          "title": "Infectious Disease Conference Series: STIs",
+          "detail": "Jason Zucker MD · In person in the McIntosh Conference Room",
           "location": null,
-          "hasVideo": false
+          "hasVideo": true
         }
       ]
     },
-    "2026-11-19": {
+    "2026-11-26": {
       "dayName": "Thursday",
       "sessions": [
         {
           "time": "8:00 AM - 9:00 AM",
-          "title": "On Queer NYC History",
-          "detail": "Sergio Preciado MD · Jake Schade MD · In person in the McIntosh Conference Room",
-          "location": null,
-          "hasVideo": true
-        },
-        {
-          "time": "12:00 PM - 1:00 PM",
-          "title": "Hematology Conference Series: Anemia",
-          "detail": "Erin Ramoutar MD · In person in the McIntosh Conference Room",
-          "location": null,
-          "hasVideo": true
-        }
-      ]
-    },
-    "2026-11-20": {
-      "dayName": "Friday",
-      "sessions": [
-        {
-          "time": "8:00 AM - 9:00 AM",
-          "title": "Health Equity Grand Rounds:",
-          "detail": "Leaks in the Pipeline: Tracing Inequity from Diagnosis to Survivorship in Pediatric Heart Transplantation · Emma Boden MD · Haley Davis MD · Janice Delgado MD · Shyam Desai MD · Margaret Shevik MD PhD · Please join us in person in Tower 103 · Grand Rounds Zoom Webinar",
+          "title": "Conference Cancelled for Thanksgiving Holiday",
+          "detail": null,
           "location": null,
           "hasVideo": false
         },
         {
           "time": "12:00 PM - 1:00 PM",
-          "title": "Recruitment Lunch!",
-          "detail": "*Residents only* · In person in the Residency Lounge",
+          "title": "Conference Cancelled for Thanksgiving Holiday",
+          "detail": null,
+          "location": null,
+          "hasVideo": false
+        }
+      ]
+    },
+    "2026-11-27": {
+      "dayName": "Friday",
+      "sessions": [
+        {
+          "time": "8:00 AM - 9:00 AM",
+          "title": "Grand Rounds Cancelled for Thanksgiving Holiday",
+          "detail": null,
+          "location": null,
+          "hasVideo": false
+        },
+        {
+          "time": "12:00 PM - 1:00 PM",
+          "title": "Conference Cancelled for Thanksgiving Holiday",
+          "detail": null,
           "location": null,
           "hasVideo": false
         }
